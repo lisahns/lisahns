@@ -1,7 +1,7 @@
-#Hi 👋
-##I'm Lisa (she/her)
-###and I'm aspiring to become a software developer 🖥️
-####currently in training with Founders and Coders 🧑‍🎓
+# Hi 👋
+## I'm Lisa (she/her)
+### and I'm aspiring to become a software developer 🖥️
+#### currently in training with Founders and Coders 🧑‍🎓
 <!--
 **lisahns/lisahns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
