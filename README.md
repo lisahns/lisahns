@@ -6,6 +6,7 @@
 
 <!-- add github stats -->
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariapaz&show_icons=true)
 
 
 other things I do:
