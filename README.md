@@ -4,7 +4,7 @@
 
 <!-- add linkedin and twitter -->
 
-<!-- add github stats -->
+<!-- pin a repository -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariapaz&show_icons=true)
 
