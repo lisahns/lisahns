@@ -1,6 +1,12 @@
 ## Hi 👋 I'm Lisa (she/her)
-#### and I'm aspiring to become a software developer 🖥️
+#### and I'm aspiring to become a **software developer** 🖥️
 #### currently in training with Founders and Coders 🧑‍🎓
+
+other things I do:
+- photography 📷 more specific, sustainable photography 🍃
+- travelling: I went for a backpacking trip in USA & Mexico 🇺🇸 🇲🇽
+- running: I ran my first half-marathon last year 🏃‍♀️
+
 <!--
 **lisahns/lisahns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
