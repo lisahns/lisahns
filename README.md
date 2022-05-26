@@ -2,6 +2,10 @@
 #### and I'm aspiring to become a **software developer** 🖥️
 #### currently in training with Founders and Coders 🧑‍🎓
 
+<!-- add linkedin and twitter -->
+
+<!-- add github stats -->
+
 other things I do:
 - photography 📷 more specific, sustainable photography 🍃
 - travelling: I went for a backpacking trip in USA & Mexico 🇺🇸 🇲🇽
