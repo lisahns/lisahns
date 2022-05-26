@@ -6,6 +6,8 @@
 
 <!-- add github stats -->
 
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
 other things I do:
 - photography 📷 more specific, sustainable photography 🍃
 - travelling: I went for a backpacking trip in USA & Mexico 🇺🇸 🇲🇽
