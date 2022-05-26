@@ -1,5 +1,4 @@
-## Hi 👋
-## I'm Lisa (she/her)
+## Hi 👋 I'm Lisa (she/her)
 #### and I'm aspiring to become a software developer 🖥️
 #### currently in training with Founders and Coders 🧑‍🎓
 <!--
