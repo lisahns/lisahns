@@ -6,7 +6,7 @@
 
 <!-- pin a repository -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariapaz&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lisahns&show_icons=true)
 
 
 other things I do:
