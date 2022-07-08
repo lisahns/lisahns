@@ -2,18 +2,23 @@
 #### and I'm aspiring to become a **software developer** 🖥️
 #### currently in training with Founders and Coders 🧑‍🎓
 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lisahns&show_icons=true)
+
 <!-- add linkedin and twitter -->
 
 <!-- pin a repository -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lisahns&show_icons=true)
-
 
 other things I do:
-- photography 📷 more specific, sustainable photography 🍃
 - travelling: I went for a backpacking trip in USA & Mexico 🇺🇸 🇲🇽
 - running: I ran my first half-marathon last year 🏃‍♀️
+- - photography 📷 more specific, sustainable photography 🍃
 
+*I print photos, using plant materials. This photo is printed with spinach*
 
 ![spinach print](https://github.com/lisahns/lisahns/blob/main/IMG_0019.jpg)
 
