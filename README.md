@@ -9,7 +9,7 @@ I had my first coding experience last year, where I attended an 8-week introduct
 
 #### contact me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lisa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lisahanes95/)](https://www.linkedin.com/in/lisahanes95/)
+[![Linkedin Badge](https://img.shields.io/badge/-Lisa_Hanes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lisahanes95/)](https://www.linkedin.com/in/lisahanes95/)
 [![Instagram Badge](https://img.shields.io/badge/-lisadhns-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lisadhns/)](https://www.instagram.com/lisadhns/)
 [![Gmail Badge](https://img.shields.io/badge/-lisa.hanes@hotmail.de-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lisa.hanes@hotmail.de)](mailto:lisa.hanes@hotmail.de)
 
