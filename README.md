@@ -15,7 +15,7 @@ other things I do:
 - running: I ran my first half-marathon last year 🏃‍♀️
 
 
-[spinach print](https://github.com/lisahns/lisahns/blob/main/IMG_0019.jpg)
+![spinach print](https://github.com/lisahns/lisahns/blob/main/IMG_0019.jpg)
 
 
 <!--
