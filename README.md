@@ -14,6 +14,10 @@ other things I do:
 - travelling: I went for a backpacking trip in USA & Mexico 🇺🇸 🇲🇽
 - running: I ran my first half-marathon last year 🏃‍♀️
 
+
+[spinach print](https://github.com/lisahns/lisahns/blob/main/IMG_0019.jpg)
+
+
 <!--
 **lisahns/lisahns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
