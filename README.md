@@ -1,33 +1,29 @@
 ## Hi 👋 I'm Lisa (she/her)
-#### and I'm aspiring to become a **software developer** 🖥️
-#### currently in training with Founders and Coders 🧑‍🎓
+#### and I'm aspiring to become a **software developer** 🖥️  currently in training with Founders and Coders 🧑‍🎓
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 <br /> 
 
-
-paragraph about me
-
-
+I had my first coding experience last year, where I attended an 8-week introduction course hosted by Code First Girls. I really enjoyed learning about programming and being able to solve problems and build projects. Recently graduated with a BA Photography and am curious about the intersection of visual arts and technology.
 <br /> 
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lisahns&show_icons=true)
 
 #### contact me
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lisahanes95/)](https://www.linkedin.com/in/lisahanes95/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lisadhns/)](https://www.instagram.com/lisadhns/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lisa.hanes@hotmail.de)](mailto:lisa.hanes@hotmail.de)
+[![Linkedin Badge](https://img.shields.io/badge/-Lisa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lisahanes95/)](https://www.linkedin.com/in/lisahanes95/)
+[![Instagram Badge](https://img.shields.io/badge/-lisadhns-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lisadhns/)](https://www.instagram.com/lisadhns/)
+[![Gmail Badge](https://img.shields.io/badge/-lisa.hanes@hotmail.de-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lisa.hanes@hotmail.de)](mailto:lisa.hanes@hotmail.de)
 
+<br /> 
 
-<!-- pin a repository -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lisahns&show_icons=true)
+
+<br /> 
 <br /> 
 
 #### other things I do:
 - travelling: I went for a backpacking trip in USA & Mexico 🇺🇸 🇲🇽
 - running: I ran my first half-marathon last year 🏃‍♀️
-- - photography 📷 more specific, sustainable photography 🍃
+- photography 📷 more specific, sustainable photography 🍃
 
 <br /> 
 
