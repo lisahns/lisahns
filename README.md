@@ -12,12 +12,6 @@ Graduate from Founders and Coders in 2022. Background in business and visual art
 [![Linkedin Badge](https://img.shields.io/badge/-Lisa_Hanes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lisahanes95/)](https://www.linkedin.com/in/lisahanes95/)
 [![Instagram Badge](https://img.shields.io/badge/-lisadhns-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lisadhns/)](https://www.instagram.com/lisadhns/)
 [![Gmail Badge](https://img.shields.io/badge/-lisa.hanes@hotmail.de-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lisa.hanes@hotmail.de)](mailto:lisa.hanes@hotmail.de)
-
-<br /> 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lisahns&show_icons=true)
-
-<br /> 
 <br /> 
 
 #### other things I do:
